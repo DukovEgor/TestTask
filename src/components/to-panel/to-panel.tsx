@@ -7,10 +7,10 @@ function ToPanel() {
     const { selectFrom, filterTo } = useAppSelector(({ process }) => process);
 
     const aliases = GROUPS.to.find((group) => group.name === filterTo)?.alias;
+
     const variants = FILTER.find(
         (filter) => filter.from.code === selectFrom
     )?.to;
-    console.log(variants);
 
     const filteredVariants =
         filterTo !== 'Все'
