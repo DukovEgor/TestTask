@@ -30,7 +30,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `package.json`._
 ### Запуск проекта
 
 ```bash
-yarn start
+yarn dev
 ```
 
 После запуска, приложение доступно для просмотра в браузере по адресу [http://localhost:5174](http://localhost:5174).
