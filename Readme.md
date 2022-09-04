@@ -1,5 +1,7 @@
 # Руководство по работе с проектом
 
+Посмотреть в действии: [Ссылка на деплой](https://test-task-rose.vercel.app/)
+
 Данный проект создан с помощью [Create React App](https://github.com/facebook/create-react-app).
 
 ## Структура проекта
