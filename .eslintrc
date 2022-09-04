@@ -1,0 +1,17 @@
+{
+  "extends": [
+	"react-app",
+	"react-app/jest",
+	"htmlacademy/react-typescript"
+  ],
+  "rules": {
+	"no-console": "warn",
+	"no-unused-vars": "warn",
+	"@typescript-eslint/no-unused-vars": "off",
+	"indent": "off",
+	"react/jsx-curly-newline": "off",
+	"no-mixed-spaces-and-tabs": ["warn", "smart-tabs"],
+	"camelcase": "off"
+  }
+
+}
